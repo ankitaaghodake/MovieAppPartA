@@ -1,1 +1,1 @@
-# MovieAppPartA
+This project Aim is to develop the frontend of a real-world application in React. With the Movie Booking application, users can browse upcoming and released movies, filter the released movies based on certain parameters, and view its details such as genre, artists, the trailer of released movies and book a show for which movie you interested in.
